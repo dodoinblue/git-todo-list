@@ -1,5 +1,5 @@
 # Todo list
 
-buy milk
+buy soy-milk
 buy orange
 buy apple
