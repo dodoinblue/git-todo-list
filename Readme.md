@@ -3,3 +3,4 @@
 buy soy-milk
 buy kiwifruit
 buy apple
+git training
